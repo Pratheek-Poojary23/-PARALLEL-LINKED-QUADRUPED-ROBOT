@@ -4,7 +4,7 @@ A legged robot using an ESP32 with PWM to control the servo motors, and use an E
 ## Introduction ##
 The legged robots are more complex in design and control, but they are stronger in holonomic motion ability, manoeuvring, and application variety.
 
-This project involves creating a quadruped robot using ESP32 Microcontroller and PWM to drive all the 12 servo motors, all components being 3D printed in-house and Controlled by ESP32 Web Server.
+Creating a 3D-printed quadruped robot with 12 PWM-driven servo motors, controlled by an ESP32 web server.
 
 ## Components 
 1) ESP32  <br/>
@@ -15,3 +15,15 @@ This project involves creating a quadruped robot using ESP32 Microcontroller and
 6) Battery Holder
 7) Flange Bearing X20
 8) Flat Bearing X10
+## Assembly
+We 3D printed all the frames using a Snapmaker, based on the provided CAD file. The base plate is an acrylic sheet that was laser-cut.
+
+Flange and flat bearings are used between the links to reduce friction, allowing for the free movement of the robot's legs.
+
+for the Assembly you can refer - https://www.waveshare.com/wiki/WAVEGO
+## Circuit Diagram
+
+<img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/Circuit%20Diagram.png" height="500" width="800">
+
+
+
