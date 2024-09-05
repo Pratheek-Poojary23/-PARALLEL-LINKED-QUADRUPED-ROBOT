@@ -22,7 +22,7 @@ Flange and flat bearings are used between the links to reduce friction, allowing
 
 for the Assembly you can refer - https://www.waveshare.com/wiki/WAVEGO
 <img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/Screenshot%202024-08-07%20211733.png" height="400" width="500">
-<img src="
+<img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/Screenshot%202024-08-07%20211759.png" height="400" width="500">
 
 ## Circuit Diagram
 
