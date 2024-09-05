@@ -21,9 +21,10 @@ We 3D printed all the frames using a Snapmaker, based on the provided CAD file. 
 Flange and flat bearings are used between the links to reduce friction, allowing for the free movement of the robot's legs.
 
 for the Assembly you can refer - https://www.waveshare.com/wiki/WAVEGO
+
 ## Circuit Diagram
 
-<img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/Circuit%20Diagram.png" height="500" width="800">
+<img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/Circuit%20Diagram.png" height="400" width="500">
 
 
 
