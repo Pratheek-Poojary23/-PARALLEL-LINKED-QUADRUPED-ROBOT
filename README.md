@@ -28,5 +28,8 @@ for the Assembly you can refer - https://www.waveshare.com/wiki/WAVEGO
 
 <img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/Circuit%20Diagram.png" height="400" width="500">
 
+## Final Model
+<img src="https://github.com/Pratheek-Poojary23/-PARALLEL-LINKED-QUADRUPED-ROBOT/blob/main/Images/WhatsApp%20Image%202024-09-05%20at%207.18.14%20PM.jpeg" height="400" width="700">
+
 
 
